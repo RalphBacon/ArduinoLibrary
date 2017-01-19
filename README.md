@@ -1,5 +1,5 @@
 # ArduinoLibrary
-How to create an Arduino Library (see YouTube video #71 here: https://youtube.com/c/RalphBacon
+How to create an Arduino Library (see YouTube video #71 here: https://youtube.com/c/RalphBacon)
 
 Here you will find the files used in the demonstration video above.
 
