@@ -1,0 +1,14 @@
+# -----------------------------------------
+# Syntax colouring for RsbLib demo library
+# -----------------------------------------
+
+# Datatypes (such as objects)
+TestLib	KEYWORD1
+
+#Methods / functions
+begin 	KEYWORD2
+getRandomNumber	KEYWORD2
+
+# Constants
+
+
